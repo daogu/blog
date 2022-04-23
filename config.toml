@@ -1,0 +1,40 @@
+baseURL = 'http://example.org/'
+languageCode = 'zh_CN'
+hasCJKLanguage = true
+title = '起始页'
+
+theme = 'LoveIt'
+
+[params]
+  version = "0.2.X"
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+	pre = ''
+	post = ''
+	name = '文章'
+	url = '/posts/'
+	title = ''
+	weight = 1
+  [[menu.main]]
+    identifier = 'tags'
+	pre = ''
+	post = ''
+	name = '标签'
+	url = '/tags/'
+	title = ''
+	weight = 2
+  [[menu.main]]
+    identifier = 'categories'
+	pre = ''
+	post = ''
+	name = '分类'
+	url = '/categories/'
+	title = ''
+	weight = 3
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+
