@@ -1,4 +1,4 @@
-baseurl: https://daogu.github.io
+baseurl: https://daogu.github.io/blog
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
