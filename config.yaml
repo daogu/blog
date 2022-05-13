@@ -1,15 +1,16 @@
+#baseurl: https://daogu.github.io
 baseurl: https://daogu.github.io/blog/
 RelativeURLs: true
 CanonifyURLs: true
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
-title: 主页
+title: 小憩一年
 
 languages:
     zh-cn:
         languageName: 中文
-        title: 主页
+        title: 小憩一年
         weight: 1
 
 # Change it to your Disqus shortname before using
