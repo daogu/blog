@@ -8,14 +8,4 @@ title="YouTube Video"
 >
 &lt;/iframe>
 &lt;/div>
-&lt;/p>
-&lt;p>主题曲 林宥嘉 《别让我走远》
-&lt;div class="video-wrapper">
-&lt;iframe loading="lazy"
-src="https://www.youtube.com/embed/sSidvDS5Naw"
-allowfullscreen
-title="YouTube Video"
->
-&lt;/iframe>
-&lt;/div>
 &lt;/p></description></item></channel></rss>
