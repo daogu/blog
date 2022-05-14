@@ -1,7 +1,4 @@
 baseurl: https://daogu.github.io
-#baseurl: https://daogu.github.io/blog/
-#RelativeURLs: true
-#CanonifyURLs: true
 languageCode: zh-cn
 theme: hugo-theme-stack
 paginate: 5
