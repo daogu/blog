@@ -9,6 +9,16 @@ allowfullscreen="true"
 >
 &lt;/iframe>
 &lt;/div>
+&lt;/p>
+&lt;p>影视原声带
+&lt;div class="video-wrapper">
+&lt;iframe loading="lazy"
+src="https://www.youtube.com/embed/qk0L6LEFtaM"
+allowfullscreen
+title="YouTube Video"
+>
+&lt;/iframe>
+&lt;/div>
 &lt;/p></description></item><item><title>琅琊榜</title><link>https://daogu.github.io/p/%E7%90%85%E7%90%8A%E6%A6%9C/</link><pubDate>Fri, 13 May 2022 19:42:57 +0800</pubDate><guid>https://daogu.github.io/p/%E7%90%85%E7%90%8A%E6%A6%9C/</guid><description>&lt;img src="https://images-1308841967.cos.ap-shanghai.myqcloud.com/202205150224897.avif" alt="Featured image of post 琅琊榜" />&lt;p>《琅琊榜》（2015）
 《琅琊榜之风起长林》（2017）&lt;/p>
 &lt;h3 id="主题曲">主题曲&lt;/h3>
@@ -22,7 +32,8 @@ allowfullscreen="true"
 >
 &lt;/iframe>
 &lt;/div>
-刘涛《红颜旧》
+&lt;/p>
+&lt;p>刘涛《红颜旧》
 &lt;div class="video-wrapper">
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1z3411C7ia"
 scrolling="no"
@@ -32,7 +43,8 @@ allowfullscreen="true"
 >
 &lt;/iframe>
 &lt;/div>
-王凯《赤血长殷》
+&lt;/p>
+&lt;p>王凯《赤血长殷》
 &lt;div class="video-wrapper">
 &lt;iframe src="https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1Yx41127yx"
 scrolling="no"
@@ -42,7 +54,8 @@ allowfullscreen="true"
 >
 &lt;/iframe>
 &lt;/div>
-&lt;/p></description></item><item><title>武林外传</title><link>https://daogu.github.io/p/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0/</link><pubDate>Fri, 13 May 2022 19:38:33 +0800</pubDate><guid>https://daogu.github.io/p/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0/</guid><description>&lt;img src="https://images-1308841967.cos.ap-shanghai.myqcloud.com/202205150100349.avif" alt="Featured image of post 武林外传" />&lt;p>八十集合集
+&lt;/p></description></item><item><title>武林外传</title><link>https://daogu.github.io/p/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0/</link><pubDate>Fri, 13 May 2022 19:38:33 +0800</pubDate><guid>https://daogu.github.io/p/%E6%AD%A6%E6%9E%97%E5%A4%96%E4%BC%A0/</guid><description>&lt;img src="https://images-1308841967.cos.ap-shanghai.myqcloud.com/202205150100349.avif" alt="Featured image of post 武林外传" />&lt;h3 id="相关视频">相关视频：&lt;/h3>
+&lt;p>八十集合集
 &lt;div class="video-wrapper">
 &lt;iframe loading="lazy"
 src="https://www.youtube.com/embed/8rcFoN1Ding"
@@ -51,7 +64,8 @@ title="YouTube Video"
 >
 &lt;/iframe>
 &lt;/div>
-八十一集
+&lt;/p>
+&lt;p>八十一集
 &lt;div class="video-wrapper">
 &lt;iframe loading="lazy"
 src="https://www.youtube.com/embed/_blfx4UYJXs"
